@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WordFinder/.vs/WordFinder
+/WordFinder/bin/Debug/net8.0
+/WordFinder/obj
+/WordFinderTest/bin/Debug/net8.0
+/WordFinderTest/obj
+/.vs
